@@ -1,0 +1,22 @@
+{
+    "name": "telegram-md",
+    "description": "Muller-Xmd, A simple Telegram user bot Created by Gifted Tech",
+    "logo": "https://github.com/mauricegift.png",
+    "repository": "https://github.com/MRABDUL13/Muller-telegram-bot",
+    "keywords": ["whatsappbot", "Muller Tech", "MULLER XMD", "MULLER TECH 𝙈𝘿", "MULLERMdWhatsaooBot", "multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "3000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "bot connection conformation message",
+        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [YOU'VE CHOSEN MULLER XMD ]",
+        "required": false 
+      }
+    }   
+
+}
