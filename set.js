@@ -1,7 +1,7 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'MULLER-XMD'; // Bot Name
 global.botVersion = '2.0.1';
-global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
+global.botPic = 'https://files.catbox.moe/zreaq0.jpeg'; // Can use path, can also use link
 global.botToken = '7267479440:AAEaoLtOgcctTiYnmOZpTA1-4NNXFfZhdHI'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'mouricedevs'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nigeria'; // Your Time Zone
